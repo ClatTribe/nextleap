@@ -408,7 +408,7 @@ export default function Home() {
           <div className="legal"><span>© 2026 NextLeap</span><span>Made for the AI-ready classroom</span></div>
         </div>
       </footer>
-
+ 
       <NextLeapEffects />
     </>
   );
